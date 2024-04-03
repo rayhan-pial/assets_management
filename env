@@ -2,3 +2,4 @@
 EMAIL_USER = 'test@gmail.com'
 EMAIL_PASS = 'testpass'
 EMAIL_FROM = 'test@gmail.com'
+
